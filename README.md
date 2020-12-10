@@ -1,0 +1,1 @@
+# Ejemplo splash en Kotlin
